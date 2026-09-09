@@ -1,0 +1,4 @@
+the data is too big for me to put here, but if you want to run it 
+you can download the zip from this link: https://www.kaggle.com/c/ieee-fraud-detection/data
+
+you can just put the files in this folder and run the code
